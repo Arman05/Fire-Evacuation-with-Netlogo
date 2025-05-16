@@ -37,7 +37,7 @@ These were designed to mimic real-world emergency situations and test evacuation
 - Exits do not change dynamically  
 
 ![NetLogo World](images/world-design.png)  
-*Fig: NetLogo world layout with crowd and exits*
+**Fig: 1** *NetLogo world layout with crowd and exits*
 
 ---
 
@@ -61,7 +61,7 @@ These were designed to mimic real-world emergency situations and test evacuation
 - Post-analysis in Python using **Pandas** for calculating **mean** and **standard deviation**
 
 ![Experiment Table](images/experiment-table.png)  
-*Fig: Sample result table from simulation*
+**Fig: 2** *Sample result table from simulation*
 
 ---
 
@@ -78,7 +78,7 @@ These were designed to mimic real-world emergency situations and test evacuation
 ## 📷 Simulation Snapshots
 
 ![Simulation Running](images/simulation-running.png)  
-*Fig: People evacuating as fire spreads*
+**Fig: 3** *People evacuating as fire spreads*
 
 ---
 
