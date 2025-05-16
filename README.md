@@ -27,9 +27,6 @@ We used **NetLogo** for the simulation and **Python (Pandas)** for analyzing the
 
 These were designed to mimic real-world emergency situations and test evacuation efficiency.
 
-![Scenario Diagram](images/scenario.png)  
-*Fig: Simulation scenario overview*
-
 ---
 
 ## 🌍 World Design and Assumptions
